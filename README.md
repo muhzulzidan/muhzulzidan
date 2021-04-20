@@ -4,10 +4,10 @@
 ## I'm a Front End Developer, and a Teacher!!
 
 - 🔭 I just launched my blog: [muhzulzidan.com!][website]!
-- 🌱 I’m currently learn about FronEnd (html, css, scss, Gatsby.js, react.js, javascript)
+- 🌱 I’m currently learning about FronEnd (html, css, scss, Gatsby.js, react.js, javascript)
 - 👯 I’m looking for a job.
 - 🥅 2020 Goals: Get an Income for daily lives
-- ⚡ Fun fact: I love to draw and design, you can check my ig design : 
+- ⚡ Fun fact: I love to draw and design, you can check my ig design : [zn_illustrations!][design]
 
 
 ### Connect with me:
