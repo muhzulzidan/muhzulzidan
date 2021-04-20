@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there, I'm Zidan - aka [muhzulzidan][website] 👋
 
 
