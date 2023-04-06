@@ -1,13 +1,13 @@
-### Hi there, I'm Zidan - aka [muhzulzidan][website] 👋
+### Hi there, I'm Zidan - aka [zulzidan][website] 👋
 
 
 ## I'm a Front End Developer, and a Teacher!!
 
-- 🔭 I just launched my blog: [muhzulzidan.com!][website]!
+- 🔭 I just launched my portofolio: [zulzidan.com!][website]!
 - 🌱 I’m currently learning about FronEnd (html, css, scss, Gatsby.js, react.js, javascript)
 - 👯 I’m looking for a job.
-- 🥅 2021 Goals: Get an Income for daily lives
-- ⚡ Fun fact: I love to draw and design, you can check my ig design : [zn_illustrations!][design]
+- 🥅 2023 Goals: Get an Income for daily lives
+- ⚡ Fun fact: I love to digital marketing too. i do content about in my social media.
 
 
 ### Connect with me:
@@ -21,7 +21,7 @@
 <br />
 
 
-[website]: https://muhzulzidan.com
+[website]: https://zulzidan.com
 [design]: https://www.instagram.com/zn_ilustration/
 [twitter]: https://twitter.com/mzulzidan1
 [youtube]: https://www.youtube.com/channel/UCRzWxDiOLPga7jP_364eGMg
