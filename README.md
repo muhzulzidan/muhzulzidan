@@ -1,5 +1,6 @@
 ### Hi there, I'm Zidan - aka [zulzidan][website] 👋
 
+email for bussiness : mzulzidan@gmail.com
 
 ## I'm a Front End Developer, and a Teacher!!
 
