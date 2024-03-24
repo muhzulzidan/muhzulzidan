@@ -1,13 +1,13 @@
 ### Hi there, I'm Zidan - aka [zulzidan][website] 👋
 
-email for bussiness : mzulzidan@gmail.com
+Email for bussiness : mzulzidan@gmail.com
 
-## I'm a Front End Developer, and a Teacher!!
+## I'm a Front End Developer, and a Digital Marketer !!
 
 - 🔭 I just launched my portofolio: [zulzidan.com!][website]!
-- 🌱 I’m currently learning about FronEnd (html, css, scss, Gatsby.js, react.js, javascript)
+- 🌱 I’m currently learning about FronEnd (html, css, scss, Gatsby.js, Next.js, Typescript react.js, javascript)
 - 👯 I’m looking for a job.
-- 🥅 2023 Goals: Get an Income for daily lives
+- 🥅 2024 Goals: Get an Income for daily lives
 - ⚡ Fun fact: I love to digital marketing too. i do content about in my social media.
 
 
